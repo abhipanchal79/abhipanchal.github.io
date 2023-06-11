@@ -1,0 +1,27 @@
+#purple{
+    background-color: rgb(207, 102, 207);
+    height: 50px;
+    line-height: 50px;
+}#navbarNav ul li a{
+    font-size: 20px;
+    color:rgba(170, 7, 62, 0.804);
+}  
+#textt h4{
+    line-height:150px;
+       
+}
+#textt h2{
+    line-height: 50px;
+}
+#text2 h4{
+    line-height:150px;  
+}  @media screen and(max-width:542px) {
+    #text1 #text2{
+    margin-left: 0px;
+}
+}
+  
+#icon{
+    background-image:url(3.jpg);
+    filter:drop-shadow(1px);
+}

@@ -1,0 +1,10 @@
+#navbarNav ul li a{
+    font-size: 20px;
+ }
+ .navbar .navbar-brand{
+     margin-left: 200px; } 
+ #project .row img {
+   opacity: 0.5;
+} #project .row img:hover{
+    opacity: 1;
+ }

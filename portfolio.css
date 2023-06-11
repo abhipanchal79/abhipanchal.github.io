@@ -1,0 +1,43 @@
+#navbar{
+    font-size: 1.2rem;
+    background-color: black;
+    
+}#navbar #navbarp{
+    font-size: 2rem;
+     
+}#navbar ul li a:hover{
+    background-color: orange;
+}#bgimage{
+    background-color:black;
+    
+}#bgimage1{
+    /* background-color:rgba(37, 2, 2, 0.973); */
+    background-color: #055360;
+}.icon{
+    font-size: 1.5rem;
+}.textfont{
+    font-size: 1.2rem;
+}#skill img{
+    height: 200px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}#skill #wight{
+    font-weight: 900;
+    
+    color:gold;
+}#skill{
+    background-color: rgba(36, 1, 1, 0.817);
+}.icon a :hover{
+color: orange;
+}#contact {
+    background-color: rgb(48, 1, 1);
+    text-align: center;
+    color: aqua;
+}#project{
+    font-size: 2rem;
+    background-color: black;
+}#project #img1:hover{
+    transform: scale(1.2);
+}#project #img2:hover{
+    transform: scale(1.2);
+}
